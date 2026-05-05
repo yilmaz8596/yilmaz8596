@@ -48,11 +48,6 @@ Full-stack developer with 3+ years of experience building and deploying AI-power
 
 </div>
 
----
-
----
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
