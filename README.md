@@ -17,18 +17,18 @@
 
 ## :technologist: About
 
-Full-stack developer with 3+ years of experience building and deploying AI-powered SaaS applications.[cite: 1] Specialized in backend architecture, API development, and LLM integrations.[cite: 1] I bridge the gap between quantitative analysis (PhD in Economics) and modern software engineering.[cite: 1]
+Full-stack developer with 3+ years of experience building and deploying AI-powered SaaS applications. Specialized in backend architecture, API development, and LLM integrations. I bridge the gap between quantitative analysis (PhD in Economics) and modern software engineering.
 
 ---
 
-## :rocket: Projects
+## :rocket: Key Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **SnapShot** | Uncensored AI Image Generator powered by Stable Diffusion.[cite: 1] | Next.js, Modal, S3[cite: 1] |
-| **Voxio** | AI Voice Studio for text-to-speech and voice cloning.[cite: 1] | Next.js, Vercel[cite: 1] |
-| **Mailify** | AI Cold Email Generator with credit-based billing.[cite: 1] | MERN Stack, Docker[cite: 1] |
-| **Medical AI** | Chatbot for uploading and querying medical PDFs.[cite: 1] | Streamlit, Python[cite: 1] |
+| **SnapShot** | Uncensored AI Image Generator powered by Stable Diffusion. | Next.js, Modal, S3 |
+| **Voxio** | AI Voice Studio for text-to-speech and voice cloning. | Next.js, Vercel |
+| **Mailify** | AI Cold Email Generator with credit-based billing. | MERN Stack, Docker |
+| **Medical AI** | Chatbot for uploading and querying medical PDFs. | Streamlit, Python |
 
 ---
 
@@ -40,11 +40,11 @@ Full-stack developer with 3+ years of experience building and deploying AI-power
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)[cite: 1]
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)[cite: 1]
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -60,5 +60,5 @@ Full-stack developer with 3+ years of experience building and deploying AI-power
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
 <p align="center">
-  <a href="mailto:yilmaz8596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>[cite: 1]
+  <a href="mailto:yilmaz8596@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
