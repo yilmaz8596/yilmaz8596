@@ -52,23 +52,6 @@ Full-stack developer with 3+ years of experience building and deploying AI-power
 
 ---
 
-## :bar_chart: GitHub Stats
-
-<div align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yilmaz8596&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=4285F4" alt="GitHub Stats" height="170" />
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yilmaz8596&theme=transparent&hide_border=true&stroke=4285F4&ring=4285F4&fire=4285F4&currStreakLabel=4285F4" alt="GitHub Streak" height="170" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmaz8596&layout=compact&theme=transparent&hide_border=true&text_color=4285F4" alt="Top Languages" height="170" />
-</div>
-
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
